@@ -8,7 +8,7 @@
       Welcome to
       <Typed
        class="text-primary fw-semibold"
-       :strings="['innovation.', 'excellence.', 'success.']"
+       :strings="['tecnology', 'important', 'success.','false']"
        :type-speed="60"
        :loop="true"
        :back-speed="25"
@@ -23,7 +23,7 @@
      justify-content="start"
     >
      <p class="lead">
-      We provide top-notch solutions to help your business thrive in today's competitive market. Our team is dedicated to delivering excellence and driving success for our clients.
+      僕は19歳男子です!MBTIは
      </p>
     </Block>
    </template>

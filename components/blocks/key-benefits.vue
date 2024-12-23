@@ -1,10 +1,10 @@
 <template>
     <Block text-alignment="center">
         <b-h level="2">
-            Key Benefits
+            需要
         </b-h>
         <b-p text-color="secondary">
-            Discover why over 100,000 users love our platform
+            i don't know what to mean Benefits
         </b-p>
     </Block>
     <Row gutter="x-3" columns="1 md-2">
@@ -15,15 +15,15 @@
                 :overlay="true" overlay-color="white" overlay-alpha="0.6" :img-parallax="0.1" rounded>
                 <CardBody>
                     <CardTitle text-color="dark" headings="1">
-                        Design Tools
+                        一覧
                     </CardTitle>
                     <CardText text-color="dark">
-                        Access to advanced design techniques
+                        ここはあなたの来る場所ではないよ？
                     </CardText>
                 </CardBody>
                 <CardFooter>
                     <CardLink stretched-link to="/">
-                        Browse tools
+                        リンクだよ
                         <BIcon margin="s-1" small icon="bi:chevron-right" />
                     </CardLink>
                 </CardFooter>
