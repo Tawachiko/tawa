@@ -5,10 +5,10 @@
       display-headings="3"
       margin="b-5"
      >
-      Welcome to
+      こんにちわ
       <Typed
        class="text-primary fw-semibold"
-       :strings="['tecnology', 'important', 'success.','false']"
+       :strings="['男子', '', 'success.','false']"
        :type-speed="60"
        :loop="true"
        :back-speed="25"
