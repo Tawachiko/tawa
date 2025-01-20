@@ -9,12 +9,12 @@ definePageMeta({
   <Container margin="t-5">
     <HeroHeadingsDescription />
   </Container>
-  Hello はつかれた
+  アオのハコ
   <HeroLandingVb />
   <Container margin="y-5">
     <ColumnsOurService />
   </Container>
-  <Background background-color="blue-100" pattern-src="/hero-patterns/jigsaw.svg" :pattern-parallax="0.05" margin="y-5">
+  <Background background-color="blue-100" pattern-src="/hero-patterns/" :pattern-parallax="0.05" margin="y-5">
     <Container margin="y-5">
       <ColumnsOurServiceHighlights />
     </Container>

@@ -5,17 +5,17 @@
       display-headings="3"
       margin="b-5"
      >
-      こんにちわ
+      みなさん
       <Typed
        class="text-primary fw-semibold"
-       :strings="['男子', '', 'success.','false']"
-       :type-speed="60"
+       :strings="[ 'おはざます', 'こんにちわ','こんばんわ','いっらしゃせー']"
+       :type-speed="20"
        :loop="true"
-       :back-speed="25"
+       :back-speed="5"
        :back-delay="1500"
       />
       <br />
-      your trusted business partner
+      田和聖羅です。
      </b-h>
     </Block>
     <Block
@@ -23,7 +23,8 @@
      justify-content="start"
     >
      <p class="lead">
-      僕は19歳男子です!MBTIは
+      僕は19歳男子です!MBTIはISFJ-Tであす！
+      <br>このサイトでは、僕の好きなアニメについて話していきたいと思います！！
      </p>
     </Block>
    </template>
