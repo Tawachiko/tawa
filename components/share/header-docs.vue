@@ -28,8 +28,8 @@
                     </NavbarNavList>
                     <NavbarNavList flex-direction="row" flex-wrap="wrap">
                         <NavItem col="6 lg-auto">
-                            <NavLink to="https://usebootstrap.org/" target="_blank" padding="x-0 x-lg-2"  text-color="white">
-                                UseBootstrap
+                            <NavLink to="https://www.instagram.com/tako_chiko.0624?igsh=OHF1N3kyeXN5bTNt&utm_source=qr" target="_blank" padding="x-0 x-lg-2"  text-color="white">
+                                インスタ
                             </NavLink>
                         </NavItem>
                     </NavbarNavList>

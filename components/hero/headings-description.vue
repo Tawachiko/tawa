@@ -8,7 +8,7 @@
       みなさん
       <Typed
        class="text-primary fw-semibold"
-       :strings="[ 'おはざます', 'こんにちわ','こんばんわ','いっらしゃせー']"
+       :strings="[ 'おはざます', 'こんにちわ','こんばんわ','はじめまして']"
        :type-speed="20"
        :loop="true"
        :back-speed="5"

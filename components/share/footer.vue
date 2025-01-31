@@ -71,7 +71,7 @@
             <b-h level="5">Projects</b-h>
             <b-ul unstyled>
               <b-li margin="b-2">
-                <b-a text-color="body-secondary" link-underline="0 100-hover dark" href="https://usebootstrap.org/">use-bootstrap</b-a>
+                <b-a text-color="body-secondary" link-underline="0 100-hover dark" href="https://www.instagram.com/tako_chiko.0624?igsh=OHF1N3kyeXN5bTNt&utm_source=qr">インスタ</b-a>
               </b-li>
             </b-ul>
           </Col>
