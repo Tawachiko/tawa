@@ -1,11 +1,8 @@
 <template>
     <Block text-alignment="center">
         <b-h level="2">
-            需要
+            好きなジャンル
         </b-h>
-        <b-p text-color="secondary">
-            i don't know what to mean Benefits
-        </b-p>
     </Block>
     <Row gutter="x-3" columns="1 md-2">
         <Col>
@@ -15,15 +12,15 @@
                 :overlay="true" overlay-color="white" overlay-alpha="0.6" :img-parallax="0.1" rounded>
                 <CardBody>
                     <CardTitle text-color="dark" headings="1">
-                        一覧
+                        アニメジャンル一覧
                     </CardTitle>
                     <CardText text-color="dark">
-                        ここはあなたの来る場所ではないよ？
+                        皆さんの好きなジャンルはなんですか？
                     </CardText>
                 </CardBody>
                 <CardFooter>
-                    <CardLink stretched-link to="/">
-                        リンクだよ
+                    <CardLink stretched-link to="https://animestore.docomo.ne.jp/animestore/gen_sel_pc">
+                        ジャンルの種類
                         <BIcon margin="s-1" small icon="bi:chevron-right" />
                     </CardLink>
                 </CardFooter>
@@ -34,9 +31,8 @@
         <Col padding="y-3">
         <Row>
             <Col col="md-6">
-            <BIcon icon="bi:graph-up" text-color="primary" font-size="2" />
             <b-h level="4">
-                Interactive Dashboards
+                恋愛系アニメ
             </b-h>
             <b-p text-color="secondary">
                 Visualize your ideas and turn them into beautiful designs.
@@ -46,7 +42,7 @@
             <Col col="md-6">
             <BIcon icon="bi:bar-chart-fill" text-color="primary" font-size="2" />
             <b-h level="4">
-                Management Center
+                ほのぼの系
             </b-h>
             <b-p text-color="secondary">
                 Organize and map out your projects efficiently.
@@ -56,7 +52,7 @@
             <Col col="md-6">
             <BIcon icon="bi:lightbulb-fill" text-color="primary" font-size="2" />
             <b-h level="4">
-                Data Insights
+                あいうえお
             </b-h>
             <b-p text-color="secondary">
                 Gain deep insights into your data with our analytics engine.
