@@ -34,10 +34,10 @@
               small
             >
               <b-li margin="b-2">
-                Designed and built with all the love in the world by the Simplise Inc. team with the help of our contributors.
+                ここはリンクに飛べるところだよ
               </b-li>
               <b-li margin="b-2">
-                Code licensed MIT docs CC BY 3.0.
+                tawa company
               </b-li>
             </b-ul>
           </Col>
@@ -57,10 +57,10 @@
             col="6 lg-2"
             margin="b-3"
           >
-            <b-h level="5">Guides</b-h>
+            <b-h level="5">bereal</b-h>
             <b-ul unstyled>
               <b-li margin="b-2">
-                <b-a text-color="body-secondary" link-underline="0 100-hover dark" href="/">Getting started</b-a>
+                <b-a text-color="body-secondary" link-underline="0 100-hover dark" href="https://bere.al/tawashi0624">ここおして</b-a>
               </b-li>
             </b-ul>
           </Col>
@@ -68,18 +68,12 @@
             col="6 lg-2"
             margin="b-3"
           >
-            <b-h level="5">Projects</b-h>
+            <b-h level="5">インスタ</b-h>
             <b-ul unstyled>
               <b-li margin="b-2">
-                <b-a text-color="body-secondary" link-underline="0 100-hover dark" href="https://www.instagram.com/tako_chiko.0624?igsh=OHF1N3kyeXN5bTNt&utm_source=qr">インスタ</b-a>
+                <b-a text-color="body-secondary" link-underline="0 100-hover dark" href="https://www.instagram.com/tako_chiko.0624?igsh=OHF1N3kyeXN5bTNt&utm_source=qr">ここ押してね</b-a>
               </b-li>
             </b-ul>
-          </Col>
-          <Col
-            col="6 lg-2"
-            margin="b-3"
-          >
-            <b-h level="5">Community</b-h>
           </Col>
         </Row>
       </Container>

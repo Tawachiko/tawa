@@ -4,9 +4,8 @@
      text-alignment="center"
      margin="y-3"
     >
-     <b-p><b>Success Stories</b></b-p>
      <b-div headings="2">
-      Discover how our platform is enabling teams to streamline their workflows and enhance productivity
+      おすすめのアニメ配信サイト
      </b-div>
     </Block>
    
@@ -17,29 +16,24 @@
      <Col>
       <Card relative-height="100">
        <CardImgTop
-        src="/unsplash/image/480x220/redd-f-5U_28ojjgms-unsplash.jpg"
+        src="/selfimg/netflix.jpg"
         alt="Image Description"
        />
    
        <CardBody>
         <b-div margin="b-3">
-         <b-icon
-          icon="bi:graph-up"
-          display-headings="5"
-          text-color="primary"
-         />
         </b-div>
-        <CardText>A leading company launched their enterprise platform and built a powerful user experience.</CardText>
+        <CardText>アニメ以外にも見れておすすめです</CardText>
        </CardBody>
    
        <CardFooter>
         <CardLink
          icon="bi:chevron-right"
          icon-end
-         to="/"
+         to="https://www.netflix.com/jp/"
          stretched-link
         >
-         Read story
+         インストール
         </CardLink>
        </CardFooter>
       </Card>
@@ -48,29 +42,24 @@
      <Col>
       <Card relative-height="100">
        <CardImgTop
-        src="/unsplash/image/480x220/dlxmedia-hu-U-W8FKeC6Mo-unsplash.jpg"
+        src="/selfimg/d-anime.png"
         alt="Image Description"
        />
    
        <CardBody>
         <b-div margin="b-3">
-         <b-icon
-          icon="bi:tools"
-          display-headings="5"
-          text-color="primary"
-         />
         </b-div>
-        <CardText>A marketing team was empowered to create digital dashboards easily and share them with their team.</CardText>
+        <CardText> アニメ数なら多分一番です</CardText>
        </CardBody>
    
        <CardFooter>
         <CardLink
          icon="bi:chevron-right"
          icon-end
-         to="/"
+         to="https://animestore.docomo.ne.jp/animestore/tp_pc"
          stretched-link
         >
-         Read story
+         インストール
         </CardLink>
        </CardFooter>
       </Card>
@@ -79,29 +68,24 @@
      <Col>
       <Card relative-height="100">
        <CardImgTop
-        src="/unsplash/image/480x220/unseen-studio-s9CC2SKySJM-unsplash.jpg"
+        src="/selfimg/anime-houdai.jpg"
         alt="Image Description"
        />
    
        <CardBody>
         <b-div margin="b-3">
-         <b-icon
-          icon="bi:gear"
-          display-headings="5"
-          text-color="primary"
-         />
         </b-div>
-        <CardText>A tech company aimed to innovate and simplify their processes to achieve their mission.</CardText>
+        <CardText>U-NEXTと連携しているのでアニメ数多いです！</CardText>
        </CardBody>
    
        <CardFooter>
         <CardLink
          icon="bi:chevron-right"
          icon-end
-         to="/"
+         to="https://www.animehodai.jp/"
          stretched-link
         >
-         Read story
+         インストール
         </CardLink>
        </CardFooter>
       </Card>
@@ -110,12 +94,6 @@
     <Block
      size="md-4"
     >
-     <b-button
-      button="outline-primary"
-      relative-width="100"
-     >
-      view all stories
-     </b-button>
     </Block>
    </template>
    

@@ -8,9 +8,9 @@
        >
         <Col border="end">
          <b-h level="3">
-          Our Services
+          NEWS
          </b-h>
-         <b-p>Tailored solutions for modern businesses</b-p>
+         <b-p></b-p>
    
          <Row>
           <Col
@@ -21,13 +21,13 @@
              icon="bi:check-circle-fill"
              text-color="success"
             >
-             Creative Designs
+             ユニバに行った
             </ListItem>
             <ListItem
              icon="bi:check-circle-fill"
              text-color="success"
             >
-             Flexible Solutions
+             テスト点数低すぎた
             </ListItem>
            </List>
           </Col>
@@ -38,7 +38,7 @@
              icon="bi:check-circle-fill"
              text-color="success"
             >
-             24/7 Assistance <badge
+             アサイーボールたべた <badge
               background-color="secondary"
               rounded="pill"
              >
@@ -49,7 +49,7 @@
              icon="bi:check-circle-fill"
              text-color="success"
             >
-             Cloud Integration
+             バイト行った
             </ListItem>
            </List>
           </Col>
@@ -57,19 +57,11 @@
         </Col>
         <Col col="md-3">
          <b-h level="4">
-          Service Highlights
+           Highlights by myself
          </b-h>
          <b-p text-color="secondary">
-          Discover the top features designed to meet your requirements.
+          人間です！多分。ユニバいきたすぎて死んじゃいそう、
          </b-p>
-         <IconLink
-          icon="bi:chevron-right"
-          icon-end
-          to="/"
-          stretched-link
-         >
-          <b>Learn more</b>
-         </IconLink>
         </Col>
        </Row>
       </CardBody>

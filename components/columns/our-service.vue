@@ -5,29 +5,29 @@
      justify-content="start"
     >
      <b-p text-color="body-tertiary">
-      <b>Our services</b>
+      <b>アニメ</b>
      </b-p>
      <b-p headings="3">
-      Elevate your services with our comprehensive solutions.
+      
      </b-p>
     </Block>
     <Row>
      <Col col="md-5">
       <Card
-       relative-height="100"
+       relative-height="50"
        class="hover:-un-translate-y-0.5"
       >
        <CardImgTop
-        src="/unsplash/image/500x280/arlington-research-nFLmPAf9dVc-unsplash.jpg"
+        src="/selfimg/sound.jpg"
         alt="Image Description"
        />
    
        <CardBody>
         <CardTitle>
-         Make a significant impact
+         響け！ユーフォニアム
         </CardTitle>
         <CardText text-color="secondary">
-         We are committed to providing opportunities to those who have demonstrated their ability to execute effectively.
+            京都アニメーションが作っていて作画がきれいで喜怒哀楽もあって最高のアニメです。
         </CardText>
        </CardBody>
    
@@ -35,10 +35,10 @@
         <CardLink
          icon="bi:chevron-right"
          icon-end
-         to="/"
+         to="https://anime-eupho.com/"
          stretched-link
         >
-         Learn more
+         公式サイト
         </CardLink>
        </CardFooter>
       </Card>
@@ -50,14 +50,14 @@
        class="hover:-un-translate-y-0.5"
       >
        <CardImgTop
-        src="/unsplash/image/500x280/jason-goodman-bzqU01v-G54-unsplash.jpg"
+        src="/selfimg/what's you name.jpg"
         alt="Image Description"
        />
    
        <CardBody>
-        <CardTitle>Guides</CardTitle>
+        <CardTitle>君の名は</CardTitle>
         <CardText text-color="secondary">
-         Whether you're a startup or a global enterprise, learn how to integrate with our solutions.
+         新海誠さんの作品で一番すきです。
         </CardText>
        </CardBody>
    
@@ -65,10 +65,10 @@
         <CardLink
          icon="bi:chevron-right"
          icon-end
-         to="/"
+         to="https://www.kiminona.com/"
          stretched-link
         >
-         Learn more
+         公式サイト
         </CardLink>
        </CardFooter>
       </Card>
@@ -80,16 +80,16 @@
        class="hover:-un-translate-y-0.5"
       >
        <CardImgTop
-        src="/unsplash/image/500x280/arlington-research-Kz8nHVg_tGI-unsplash.jpg"
+        src="/selfimg/oregairu.webp"
         alt="Image Description"
        />
    
        <CardBody>
         <CardTitle>
-         Explore the Tools
+         やはり俺の青春ラブコメは間違っている。
         </CardTitle>
         <CardText text-color="secondary">
-         Quickly access sample components and copy-paste codes.
+         学園青春アニメで一番面白いです！主人公のひねくり方大好きです！
         </CardText>
        </CardBody>
    
@@ -97,10 +97,10 @@
         <CardLink
          icon="bi:chevron-right"
          icon-end
-         to="/"
+         to="https://www.tbs.co.jp/anime/oregairu/"
          stretched-link
         >
-         Learn more
+         公式サイト
         </CardLink>
        </CardFooter>
       </Card>

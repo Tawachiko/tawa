@@ -1,7 +1,7 @@
 <script setup lang="ts">
 definePageMeta({
-    title: 'Localization',
-    description: 'Quickly get a project started with any of our examples ranging from using parts of the framework to custom components and layouts.'
+    title: 'ENGLISH',
+    description: 'I am a 19 year old boy! MBTI is ISFJ-T!On this site, I would like to talk about my favorite anime!'
 })
 </script>
 

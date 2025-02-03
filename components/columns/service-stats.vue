@@ -14,8 +14,8 @@
        />
        <p>
         <b>
-         4.82 out of 5 starts
-        </b><br /> from 83 reviews
+         アニメは価値観変えてくれる。
+        </b>
        </p>
       </b-div>
      </Col>
@@ -26,16 +26,6 @@
        text-alignment="center"
        padding="x-md-3"
       >
-       <b-icon
-        icon="bi:chat-quote"
-        text-color="warning"
-        font-size="1"
-       />
-       <p>
-        <b>
-         Loved by 95% of users
-        </b><br /> based on 150 feedbacks
-       </p>
       </b-div>
      </Col>
      <HTVDivider virtical="md" />
@@ -53,8 +43,8 @@
        />
        <p>
         <b>
-         Awarded Best SaaS Product
-        </b><br /> in 2023
+         とにかくおもしろい
+        </b>
        </p>
       </b-div>
      </Col>
