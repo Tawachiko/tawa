@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/fonts": "^0.10.3",
     "sass": "1.77.6",
     "usebootstrap": "^3.5.61",
     "vue": "latest"

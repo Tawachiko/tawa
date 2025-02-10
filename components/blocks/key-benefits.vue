@@ -35,7 +35,7 @@
                 恋愛系アニメ
             </b-h>
             <b-p text-color="secondary">
-                Visualize your ideas and turn them into beautiful designs.
+                はらはらドキドキします
             </b-p>
             </Col>
 
@@ -45,27 +45,27 @@
                 ほのぼの系
             </b-h>
             <b-p text-color="secondary">
-                Organize and map out your projects efficiently.
+                田舎の良さに気づかされます！
             </b-p>
             </Col>
 
             <Col col="md-6">
             <BIcon icon="bi:lightbulb-fill" text-color="primary" font-size="2" />
             <b-h level="4">
-                あいうえお
+                バトル系
             </b-h>
             <b-p text-color="secondary">
-                Gain deep insights into your data with our analytics engine.
+                たまに見るとちょっとあこがれる！
             </b-p>
             </Col>
 
             <Col col="md-6">
             <BIcon icon="bi:lightning-charge-fill" text-color="primary" font-size="2" />
             <b-h level="4">
-                Custom Analytics
+                青春系
             </b-h>
             <b-p text-color="secondary">
-                Generate custom reports tailored to your business needs.
+                学生に戻りたくなります。
             </b-p>
             </Col>
         </Row>
